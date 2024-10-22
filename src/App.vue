@@ -13,7 +13,6 @@ import CountriesList from './components/CountriesList.vue';
   <div class="app">
     <Header></Header>
     <Navbar></Navbar>
-   
     <RouterView></RouterView>
   </div>
   
